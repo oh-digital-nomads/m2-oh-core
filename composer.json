@@ -1,0 +1,21 @@
+{
+    "name": "m2-oh/core",
+    "version": "1.0.0",
+    "description": "Agencia digital OH core module, main purpose is group configurations",
+    "type": "magento2-module",
+    "require": {
+        "php": "~7.3.0||~7.4.0",
+        "magento/framework": "*"
+    },
+    "license": [
+        "OSL-3.0"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "OH\\Core\\": ""
+        }
+    }
+}
