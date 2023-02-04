@@ -1,6 +1,6 @@
 {
     "name": "m2-oh/core",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "OH eCommerce Agency - Core Module",
     "type": "magento2-module",
     "require": {
