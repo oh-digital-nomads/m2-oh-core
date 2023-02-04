@@ -1,11 +1,7 @@
 {
     "name": "m2-oh/core",
     "version": "1.0.0",
-<<<<<<< HEAD
-    "description": "Agencia digital OH core module, main purpose is group configurations",
-=======
     "description": "OH eCommerce Agency - Core Module",
->>>>>>> e304c99 (Update core module)
     "type": "magento2-module",
     "require": {
         "php": "~7.3.0||~7.4.0",
