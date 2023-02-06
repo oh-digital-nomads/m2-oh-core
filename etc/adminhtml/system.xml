@@ -2,14 +2,9 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
     <system>
-<<<<<<< HEAD
-        <tab id="oh_core" translate="label" sortOrder="100" class="oh-m2-extensions">
-=======
         <tab id="oh_core" translate="label" sortOrder="330" class="oh-m2-extensions">
->>>>>>> e304c99 (Update core module)
             <label>OH</label>
         </tab>
-
         <section id="oh_core" translate="label" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
             <label>Core</label>
             <tab>oh_core</tab>

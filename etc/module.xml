@@ -4,10 +4,7 @@
     <module name="OH_Core">
         <sequence>
             <module name="Magento_Backend"/>
-<<<<<<< HEAD
-=======
             <module name="Magento_Theme"/>
->>>>>>> e304c99 (Update core module)
         </sequence>
     </module>
 </config>
