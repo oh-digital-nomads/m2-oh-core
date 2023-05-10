@@ -1,5 +1,5 @@
 {
-    "name": "m2-oh/core",
+    "name": "m2-oh/module-core",
     "description": "OH eCommerce Agency - Core Module",
     "type": "magento2-module",
     "require": {
