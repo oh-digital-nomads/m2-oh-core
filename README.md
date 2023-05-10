@@ -2,4 +2,4 @@
 
 ### Installation
 
-`composer require m2-oh/core`
+`composer require m2-oh/module-core`
