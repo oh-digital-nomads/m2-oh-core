@@ -17,6 +17,6 @@ class Index extends Action
 
     private function getDocsUrl()
     {
-        return 'https://docs.ohecommerce.agency/';
+        return 'https://mars-docs.ohecommerce.agency/';
     }
 }
