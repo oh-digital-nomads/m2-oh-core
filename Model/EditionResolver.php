@@ -13,7 +13,7 @@ class EditionResolver
     /**
      * @var ProductMetadataInterface
      */
-    private ProductMetadataInterface $productMetadata;
+    private $productMetadata;
 
     public function __construct(
         ProductMetadataInterface $productMetadata
